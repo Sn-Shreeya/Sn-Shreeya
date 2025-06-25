@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Shreeyashree Samantaray</h1>
 <h3 align="center">A Passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" >
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sn-shreeya&label=Profile%20views&color=0e75b6&style=flat" alt="sn-shreeya" /> </p>
 
 - 🌱 I’m currently learning **Java Fullstack**
